@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+outputs/
+customer_support_lora/
+RESUME_BULLET.md
